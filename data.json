@@ -1,0 +1,68 @@
+[
+{
+  "model": "registry.driver",
+  "pk": 1,
+  "fields": {
+    "created_at": "2021-12-01T12:13:03.043Z",
+    "updated_at": "2021-12-01T14:27:02.043Z",
+    "first_name": "Ilon",
+    "last_name": "Mask"
+  }
+},
+{
+  "model": "registry.driver",
+  "pk": 2,
+  "fields": {
+    "created_at": "2021-12-10T11:23:30.220Z",
+    "updated_at": "2021-12-11T08:17:30.220Z",
+    "first_name": "Bill",
+    "last_name": "Gates"
+  }
+},
+{
+  "model": "registry.driver",
+  "pk": 3,
+  "fields": {
+    "created_at": "2021-12-12T15:27:37.681Z",
+    "updated_at": "2021-12-12T15:27:37.681Z",
+    "first_name": "Jeff",
+    "last_name": "Besos"
+  }
+},
+{
+  "model": "registry.vehicle",
+  "pk": 1,
+  "fields": {
+    "created_at": "2021-12-11T15:28:22.997Z",
+    "updated_at": "2021-12-12T15:28:22.997Z",
+    "make": "Tesla",
+    "model": "Tesla model Y",
+    "plate_number": "AA101101",
+    "driver": null
+  }
+},
+{
+  "model": "registry.vehicle",
+  "pk": 2,
+  "fields": {
+    "created_at": "2021-12-13T15:28:52.036Z",
+    "updated_at": "2021-12-13T15:28:52.036Z",
+    "make": "Ford",
+    "model": "Focus",
+    "plate_number": "AA200200",
+    "driver": null
+  }
+},
+{
+  "model": "registry.vehicle",
+  "pk": 3,
+  "fields": {
+    "created_at": "2021-12-13T15:29:21.048Z",
+    "updated_at": "2021-12-13T15:29:21.048Z",
+    "make": "Ferrari",
+    "model": "Lotus",
+    "plate_number": "YY001020",
+    "driver": null
+  }
+}
+]
